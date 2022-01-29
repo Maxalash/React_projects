@@ -1,0 +1,9 @@
+For generating from HTML->CMS(WordPress) sites: Gatsby
+
+For server site rendering: Next.js
+
+For animation: React-spring
+
+For form management: React-formic
+
+For manipulation of app state: React Redux
